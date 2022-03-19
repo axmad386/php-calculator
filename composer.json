@@ -1,0 +1,18 @@
+{
+    "name": "dmuggle/calculator",
+    "description": "An awesome calculator package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akhmad Salafudin",
+            "email": "axmad386@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dmuggle\\Calculator\\": "src/"
+        }
+    },
+    "require": {}
+}
